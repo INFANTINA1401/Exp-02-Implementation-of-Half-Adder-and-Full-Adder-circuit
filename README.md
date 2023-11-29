@@ -38,15 +38,27 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:INFANTINA MARIA L 
+RegisterNumber:23012526  
 */
 Logic symbol & Truthtable
 RTL realization
 
 ### Output:
+![CODE HALF ADDER](https://github.com/INFANTINA1401/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313821/9f293ac6-abd1-477b-b18a-8c2319da2634)
+![WAVEFORM HALF ADDER](https://github.com/INFANTINA1401/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313821/a40f7583-fb76-4bea-8d55-fa2368164899)
+![CODE FULLLADDER](https://github.com/INFANTINA1401/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313821/3b80564e-21d8-4692-bc46-f22e71018b3f)
+![WAVEFORM  FULLLADDER](https://github.com/INFANTINA1401/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313821/6f83c9ab-dbd3-4645-99f5-1995605e81e3)
+
+
 ### RTL
+![LOGIC GATE HALF ADDER](https://github.com/INFANTINA1401/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313821/67816fb1-f98e-40fd-9cb8-44ef6841162a)
+![LOGIC GATE HALF ADDER](https://github.com/INFANTINA1401/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313821/a5d3a624-66c2-4b3c-9b9b-56accc3bbd8c)
+
 ### TIMING DIAGRAM
+![TIMELINE HALFADDER](https://github.com/INFANTINA1401/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313821/d21418bb-2794-48e2-aa9a-e4b3383c868c)
+
+![TIMELINE FULLLADDER](https://github.com/INFANTINA1401/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313821/7327c2b9-6b3f-4627-ac8d-cca59887cf8e)
 
 
 ### TRUTH TABLE 
